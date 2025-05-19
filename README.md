@@ -94,6 +94,22 @@ Hajar Elfallaki-Idrissi
 ![Capture d'écran 2025-05-17 202456](https://github.com/user-attachments/assets/4649e5f0-5535-478f-b641-dcbccfe91e33)
 
 
+![Capture d'écran 2025-05-19 052225](https://github.com/user-attachments/assets/b4903f70-c030-4bae-8d38-6679becb2b59)
+
+
+![Capture d'écran 2025-05-19 052233](https://github.com/user-attachments/assets/8f6672ec-2680-4afd-8a0d-21b86d8ed47e)
+
+
+![Capture d'écran 2025-05-19 052242](https://github.com/user-attachments/assets/de2b4116-386b-44d4-8fa1-15e0d489b8b1)
+
+
+![Capture d'écran 2025-05-19 052259](https://github.com/user-attachments/assets/25e6e439-f4e6-4219-b441-4d06e2f9bf9a)
+
+
+![image](https://github.com/user-attachments/assets/53908d65-b6f2-41cb-9257-2292c621383e)
+
+
+
 
 
 
