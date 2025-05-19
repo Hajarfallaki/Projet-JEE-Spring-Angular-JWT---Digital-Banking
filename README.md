@@ -31,6 +31,8 @@ Il permet de gérer les clients, comptes bancaires, opérations, et expose une A
 ```bash
 git clone https://github.com/hajar-elfallaki/digital-banking-spring-backend.git
 cd digital-banking-spring-backend
+```
+---
 
 
 ### ▶️ Démarrer l’application
@@ -39,12 +41,17 @@ cd digital-banking-spring-backend
 Copier
 Modifier
 ./mvnw spring-boot:run
+```
 Ou alors lance la classe principale DigitalBankingApplication.java depuis ton IDE.
+
 
 ### 📚 Documentation de l’API
 Swagger UI :
+```bash
 🔗 http://localhost:8085/swagger-ui.html
 (ou http://localhost:8085/swagger-ui/index.html selon ta configuration)
+
+```
 
 ### 🔄 Endpoints REST (exemples)
 Méthode	URL	Description
@@ -55,8 +62,11 @@ PUT	/customers/{id}	Modifier les informations d’un client
 DELETE	/customers/{id}	Supprimer un client
 
 ### 🧪 Console H2
+
 Accessible ici :
+```bash
 🔗 http://localhost:8085/h2-console
+```
 
 JDBC URL : jdbc:h2:mem:testdb
 
