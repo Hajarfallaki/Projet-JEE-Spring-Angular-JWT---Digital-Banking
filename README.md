@@ -3,7 +3,7 @@
 Ce projet représente la **partie backend** d'une application de banque digitale, développée par **Hajar Elfallaki-Idrissi** avec **Spring Boot**.  
 Il permet de gérer les clients, comptes bancaires, opérations, et expose une API REST qui peut être consommée par un frontend (comme Angular).
 
----
+
 
 ## 🛠️ Technologies utilisées
 
@@ -15,7 +15,7 @@ Il permet de gérer les clients, comptes bancaires, opérations, et expose une A
 - Lombok
 - Swagger / Springdoc OpenAPI
 
----
+
 
 ## 🚀 Lancer le projet
 
@@ -32,7 +32,7 @@ Il permet de gérer les clients, comptes bancaires, opérations, et expose une A
 git clone https://github.com/hajar-elfallaki/digital-banking-spring-backend.git
 cd digital-banking-spring-backend
 ```
----
+
 
 
 ### ▶️ Démarrer l’application
