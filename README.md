@@ -82,3 +82,19 @@ Mot de passe : (laisser vide)
 Hajar Elfallaki-Idrissi
 Étudiante passionnée par le développement web et les architectures backend modernes.
 
+## 📸 Captures d’écran
+
+
+![Capture d'écran 2025-05-17 215032](https://github.com/user-attachments/assets/52d7dccb-a76e-4ac7-91f8-3bb00695f502)
+
+
+![Capture d'écran 2025-05-17 215933](https://github.com/user-attachments/assets/0b1ac697-9d30-469c-90e9-fc9c812eab5a)
+
+
+![Capture d'écran 2025-05-17 202456](https://github.com/user-attachments/assets/4649e5f0-5535-478f-b641-dcbccfe91e33)
+
+
+
+
+
+
