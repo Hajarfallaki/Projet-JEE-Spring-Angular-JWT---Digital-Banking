@@ -19,14 +19,14 @@ Il permet de gérer les clients, comptes bancaires, opérations, et expose une A
 
 ## 🚀 Lancer le projet
 
-### 📦 Prérequis
+## 📦 Prérequis
 
 - Java 17 ou plus
 - Maven
 - Git
 - Un IDE Java (IntelliJ IDEA, Eclipse ou VS Code)
 
-### 📁 Cloner le projet
+## 📁 Cloner le projet
 
 ```bash
 git clone https://github.com/hajar-elfallaki/digital-banking-spring-backend.git
@@ -35,7 +35,7 @@ cd digital-banking-spring-backend
 
 
 
-### ▶️ Démarrer l’application
+## ▶️ Démarrer l’application
 
 ```bash
 Copier
@@ -53,15 +53,19 @@ Swagger UI :
 
 ```
 
-### 🔄 Endpoints REST (exemples)
-Méthode	URL	Description
-GET	/customers	Liste de tous les clients
-GET	/customers/{id}	Récupérer un client spécifique
-POST	/customers	Ajouter un nouveau client
-PUT	/customers/{id}	Modifier les informations d’un client
-DELETE	/customers/{id}	Supprimer un client
+## 🔄 Endpoints REST (exemples)
 
-### 🧪 Console H2
+
+| Méthode | URL               | Description                            |
+|--------:|-------------------|----------------------------------------|
+| `GET`   | `/customers`      | Liste de tous les clients              |
+| `GET`   | `/customers/{id}` | Récupérer un client spécifique         |
+| `POST`  | `/customers`      | Ajouter un nouveau client              |
+| `PUT`   | `/customers/{id}` | Modifier les informations d’un client  |
+| `DELETE`| `/customers/{id}` | Supprimer un client                    |
+
+
+## 🧪 Console H2
 
 Accessible ici :
 ```bash
@@ -74,7 +78,7 @@ Utilisateur : sa
 
 Mot de passe : (laisser vide)
 
-### 👩‍💻 Développé par
+## 👩‍💻 Développé par
 Hajar Elfallaki-Idrissi
 Étudiante passionnée par le développement web et les architectures backend modernes.
 
